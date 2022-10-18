@@ -1,0 +1,6 @@
+package com.yod.taller.services.dto;
+
+public class FilaDTO {
+	private Short idTarea;
+	private Integer duracion;
+}

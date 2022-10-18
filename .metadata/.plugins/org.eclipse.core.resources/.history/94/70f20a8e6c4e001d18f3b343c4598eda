@@ -1,0 +1,6 @@
+package com.yod.taller.services.dto;
+
+public class FilaDTO {
+	private TareDTO tarea;
+	private Integer duracion;
+}

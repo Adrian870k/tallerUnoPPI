@@ -1,0 +1,7 @@
+package com.yod.taller.controller;
+
+@RestController
+
+public class UsuarioController {
+
+}

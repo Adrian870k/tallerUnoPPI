@@ -1,0 +1,6 @@
+package com.yod.taller.services.dto;
+
+public class TareDTO {
+	private Integer id;
+	private String nombre;
+}
