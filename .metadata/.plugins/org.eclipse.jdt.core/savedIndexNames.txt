@@ -73,6 +73,7 @@ INDEX VERSION 1.131+C:\yordan\universidad\semestre2022-2\pds\repoGit\tallerUnoPP
 2278431594.index
 3633538379.index
 3436800989.index
+1865797976.index
 796928326.index
 2070746611.index
 990309403.index
